@@ -167,14 +167,9 @@ export const socialMedia = [
     link: "https://github.com/CrazeCodes",
   },
   {
-    name: "Twitter",
-    img: "/twit.svg",
-    link: "https://twitter.com/TechnicalShubam",
-  },
-  {
     name: "LinkedIn",
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/sanidhyy",
+    link: "https://www.linkedin.com/in/suman-saha-359869267/",
   },
 ] as const;
 

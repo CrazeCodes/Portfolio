@@ -1,6 +1,4 @@
 "use client";
-
-import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
 
 import { testimonials } from "@/data";

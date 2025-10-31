@@ -6,7 +6,7 @@ import { IoCopyOutline } from "react-icons/io5";
 import dynamic from "next/dynamic";
 
 import { links } from "@/config";
-import { techStack, techStackIcons } from "@/data";
+import { techStackIcons } from "@/data";
 import { cn } from "@/lib/utils";
 
 import { BackgroundGradientAnimation } from "./background-gradient-animation";

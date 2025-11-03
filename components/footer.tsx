@@ -34,7 +34,7 @@ export const Footer = () => {
         <p className="text-sm font-light md:text-base md:font-normal">
           Copyright &copy; {new Date().getFullYear()}{" "}
           <Link
-            href="https://sanidhy.me"
+            href="https://www.linkedin.com/in/suman-saha-359869267"
             target="_blank"
             rel="noreferrer noopener"
             className="text-purple"
